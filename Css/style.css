@@ -1,0 +1,70 @@
+.container{
+    font-size: medium;
+    font-style: normal;
+    color:white;
+    margin: center;
+    height: 50px;
+    position: relative;
+    
+   
+}
+.h1{
+    font-style: normal;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+    font-size: 30px;
+    margin-left: 25px;
+}
+#text{
+   
+   border: 2px solid white;
+   border-width: 2px;
+   background-color: rgba(93, 10, 10, 0.105);
+   border-radius: 10px;
+   height: 250px;
+   padding-top: 20px;
+   width: 20%;
+   word-spacing: 5px;
+   padding-left: 2px;
+   margin-top: 20px;
+   text-align: left;
+   
+   
+}
+.btn{
+   
+    margin-left: 30%;
+    margin-inline-end: 10px;
+     margin-block-start: 10px;
+   
+}
+   
+
+
+.img{
+    position: absolute;
+
+
+}
+.Forget {
+    font-style: italic;
+    font-size: small;
+    padding-left: 70px;
+}
+.all{
+    margin-left: 470px;
+    align-content: center;
+    position: relative;
+   
+}
+ .href{ 
+    font-size: small;
+    margin-left: 75px ;
+    display: block ;
+text-align: unset;
+position: fixed;
+bottom: 440px;
+
+}
+
+

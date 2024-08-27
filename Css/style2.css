@@ -1,0 +1,76 @@
+.all{
+    word-spacing: normal;
+    position: relative;
+    color:white;
+    
+}
+#h1{
+    font-style: normal;
+    margin-left: 25%;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-inline: 30px;
+}
+.container{
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 220px;
+    margin-left: 25%;
+    word-spacing: 1px;
+    height: 300px;
+}
+#name{
+    margin-left: 0%;
+    padding: 0;
+    
+    
+}
+#placeholder{
+    border-radius: 4px;
+    height: 20px;
+}
+#placeholder1{
+    border-radius: 4px;
+    height: 20px;
+}
+#mail{
+    margin-left: 0%;
+    padding: 0%;
+padding-bottom: 0%;
+
+}
+#placeholder2{
+    border-radius: 4px;
+    height: 20px;
+}
+#Password{
+    margin-left: 0%;
+    padding: 0%;
+}
+#placeholder3{
+    border-radius: 4px;
+    height: 20px;
+}
+#Confirm{
+    margin-left: 0%;
+    padding: 0%;
+}
+#button{
+    margin-left: 60%;
+    margin-block: 10%;
+    
+}
+.img{
+    position: absolute;
+}
+.href{
+    background-color: antiquewhite;
+    font-size: large;
+    margin-left: 500px ;
+    display: block ;
+text-align: unset;
+position: fixed;
+bottom: 410px;
+border: 3px solid white;
+width: 65px;
+}
